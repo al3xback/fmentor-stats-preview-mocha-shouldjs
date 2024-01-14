@@ -19,7 +19,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Mocha - Should.js Testing
+- Mocha - Should.js
 - Mobile-first workflow
 
 ## Author
